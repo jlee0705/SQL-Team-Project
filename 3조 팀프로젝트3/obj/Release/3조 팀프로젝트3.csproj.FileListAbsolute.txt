@@ -1,0 +1,17 @@
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\3조 팀프로젝트3.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\_3조_팀프로젝트3.Form1.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\_3조_팀프로젝트3.Form2.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\_3조_팀프로젝트3.Form3.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\_3조_팀프로젝트3.Form4.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\_3조_팀프로젝트3.Form5.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\_3조_팀프로젝트3.Form6.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\_3조_팀프로젝트3.Form7.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\_3조_팀프로젝트3.Form8.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\숙박예약관리.Properties.Resources.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\3조 팀프로젝트3.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\3조 팀프로젝트3.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\숙박예약관리.exe.config
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\숙박예약관리.exe
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Release\숙박예약관리.pdb
+C:\Users\KB\Desktop\숙박예약관리.exe
+C:\Users\KB\Desktop\숙박예약관리.pdb
